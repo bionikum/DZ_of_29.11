@@ -10,10 +10,14 @@ if (x > y)
     Console.WriteLine($"Min: {y}" );
 }
 
-else
+if (x < y)
 {
-    Console.WriteLine($"Max: {x}");
-    Console.WriteLine($"Min: {y}");
+    Console.WriteLine($"Max: {y}");
+    Console.WriteLine($"Min: {x}");
+}
+if (x == y)
+{
+    Console.WriteLine("Значения равны");
 }
 
 
