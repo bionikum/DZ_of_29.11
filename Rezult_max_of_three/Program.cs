@@ -21,4 +21,3 @@ int max = 0;
     }
     
 Console.WriteLine($" Максимальное число : {max}");
-

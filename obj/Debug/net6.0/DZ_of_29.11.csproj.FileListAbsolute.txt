@@ -1,5 +1,0 @@
-C:\Users\Bionikum\DZ_of_29.11\obj\Debug\net6.0\DZ_of_29.11.csproj.AssemblyReference.cache
-C:\Users\Bionikum\DZ_of_29.11\obj\Debug\net6.0\DZ_of_29.11.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Bionikum\DZ_of_29.11\obj\Debug\net6.0\DZ_of_29.11.AssemblyInfoInputs.cache
-C:\Users\Bionikum\DZ_of_29.11\obj\Debug\net6.0\DZ_of_29.11.AssemblyInfo.cs
-C:\Users\Bionikum\DZ_of_29.11\obj\Debug\net6.0\DZ_of_29.11.csproj.CoreCompileInputs.cache

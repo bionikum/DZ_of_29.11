@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bionikum\\DZ_of_29.11\\DZ_of_29.11.csproj",
-      "projectName": "DZ_of_29.11",
-      "projectPath": "C:\\Users\\Bionikum\\DZ_of_29.11\\DZ_of_29.11.csproj",
+      "projectUniqueName": "C:\\Users\\Bionikum\\DZ_of_29.11\\Result_chetny\\Result_chetny.csproj",
+      "projectName": "Result_chetny",
+      "projectPath": "C:\\Users\\Bionikum\\DZ_of_29.11\\Result_chetny\\Result_chetny.csproj",
       "packagesPath": "C:\\Users\\Bionikum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bionikum\\DZ_of_29.11\\obj\\",
+      "outputPath": "C:\\Users\\Bionikum\\DZ_of_29.11\\Result_chetny\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bionikum\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\bin\Debug\net6.0\Result_chetny.exe
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\bin\Debug\net6.0\Result_chetny.deps.json
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\bin\Debug\net6.0\Result_chetny.runtimeconfig.json
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\bin\Debug\net6.0\Result_chetny.dll
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\bin\Debug\net6.0\Result_chetny.pdb
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\obj\Debug\net6.0\Result_chetny.csproj.AssemblyReference.cache
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\obj\Debug\net6.0\Result_chetny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\obj\Debug\net6.0\Result_chetny.AssemblyInfoInputs.cache
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\obj\Debug\net6.0\Result_chetny.AssemblyInfo.cs
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\obj\Debug\net6.0\Result_chetny.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\obj\Debug\net6.0\Result_chetny.dll
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\obj\Debug\net6.0\refint\Result_chetny.dll
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\obj\Debug\net6.0\Result_chetny.pdb
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\obj\Debug\net6.0\Result_chetny.genruntimeconfig.cache
+C:\Users\Bionikum\DZ_of_29.11\Result_chetny\obj\Debug\net6.0\ref\Result_chetny.dll
