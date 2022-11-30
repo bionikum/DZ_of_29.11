@@ -5,35 +5,20 @@ Console.WriteLine("Введите второе число: ");
 int b = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите третье число: ");
 int c = Convert.ToInt32(Console.ReadLine());
-if (a > b)
-{
-    if (c <= a)
-    {
-        Console.WriteLine($"Max: {a}");
-    }
-}
-if (b > c)
-{
-    if (a <= b)
-    {
-            Console.WriteLine($"Max: {b}");
-    }
-}
-if (b <= c)
-{
-    if (c > a)
-    {
-                Console.WriteLine($"Max: {c}");
-    }
-}
-if (a == b)
-{
-     if (a == c)
-     {
-        Console.WriteLine($"Max: {b + 0}");
-     }
-}
+int max = 0;
 
-
-
+    if (a > max)
+    {
+        max = a;
+    }
+    if (b > max)
+    {
+        max = b;
+    }
+    if (c > max)
+    {
+         max = c;
+    }
+    
+Console.WriteLine($" Максимальное число : {max}");
 
