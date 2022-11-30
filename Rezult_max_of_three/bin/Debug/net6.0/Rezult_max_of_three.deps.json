@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Rezult_max_of_three/1.0.0": {
+        "runtime": {
+          "Rezult_max_of_three.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rezult_max_of_three/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

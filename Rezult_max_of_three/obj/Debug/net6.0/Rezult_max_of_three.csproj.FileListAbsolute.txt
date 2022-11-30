@@ -1,0 +1,15 @@
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\bin\Debug\net6.0\Rezult_max_of_three.exe
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\bin\Debug\net6.0\Rezult_max_of_three.deps.json
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\bin\Debug\net6.0\Rezult_max_of_three.runtimeconfig.json
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\bin\Debug\net6.0\Rezult_max_of_three.dll
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\bin\Debug\net6.0\Rezult_max_of_three.pdb
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\obj\Debug\net6.0\Rezult_max_of_three.csproj.AssemblyReference.cache
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\obj\Debug\net6.0\Rezult_max_of_three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\obj\Debug\net6.0\Rezult_max_of_three.AssemblyInfoInputs.cache
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\obj\Debug\net6.0\Rezult_max_of_three.AssemblyInfo.cs
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\obj\Debug\net6.0\Rezult_max_of_three.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\obj\Debug\net6.0\Rezult_max_of_three.dll
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\obj\Debug\net6.0\refint\Rezult_max_of_three.dll
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\obj\Debug\net6.0\Rezult_max_of_three.pdb
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\obj\Debug\net6.0\Rezult_max_of_three.genruntimeconfig.cache
+C:\Users\Bionikum\DZ_of_29.11\Rezult_max_of_three\obj\Debug\net6.0\ref\Rezult_max_of_three.dll
