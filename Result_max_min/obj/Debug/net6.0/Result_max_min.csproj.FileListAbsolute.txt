@@ -1,0 +1,15 @@
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\bin\Debug\net6.0\Result_max_min.exe
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\bin\Debug\net6.0\Result_max_min.deps.json
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\bin\Debug\net6.0\Result_max_min.runtimeconfig.json
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\bin\Debug\net6.0\Result_max_min.dll
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\bin\Debug\net6.0\Result_max_min.pdb
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\obj\Debug\net6.0\Result_max_min.csproj.AssemblyReference.cache
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\obj\Debug\net6.0\Result_max_min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\obj\Debug\net6.0\Result_max_min.AssemblyInfoInputs.cache
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\obj\Debug\net6.0\Result_max_min.AssemblyInfo.cs
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\obj\Debug\net6.0\Result_max_min.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\obj\Debug\net6.0\Result_max_min.dll
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\obj\Debug\net6.0\refint\Result_max_min.dll
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\obj\Debug\net6.0\Result_max_min.pdb
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\obj\Debug\net6.0\Result_max_min.genruntimeconfig.cache
+C:\Users\Bionikum\DZ_of_29.11\Result_max_min\obj\Debug\net6.0\ref\Result_max_min.dll
