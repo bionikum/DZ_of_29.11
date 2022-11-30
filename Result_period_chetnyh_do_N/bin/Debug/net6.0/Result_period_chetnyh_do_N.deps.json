@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Result_period_chetnyh_do_N/1.0.0": {
+        "runtime": {
+          "Result_period_chetnyh_do_N.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Result_period_chetnyh_do_N/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

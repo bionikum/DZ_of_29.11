@@ -1,0 +1,15 @@
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\obj\Debug\net6.0\Result_period_chetnyh_do_N.csproj.AssemblyReference.cache
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\obj\Debug\net6.0\Result_period_chetnyh_do_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\obj\Debug\net6.0\Result_period_chetnyh_do_N.AssemblyInfoInputs.cache
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\obj\Debug\net6.0\Result_period_chetnyh_do_N.AssemblyInfo.cs
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\obj\Debug\net6.0\Result_period_chetnyh_do_N.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\bin\Debug\net6.0\Result_period_chetnyh_do_N.exe
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\bin\Debug\net6.0\Result_period_chetnyh_do_N.deps.json
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\bin\Debug\net6.0\Result_period_chetnyh_do_N.runtimeconfig.json
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\bin\Debug\net6.0\Result_period_chetnyh_do_N.dll
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\bin\Debug\net6.0\Result_period_chetnyh_do_N.pdb
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\obj\Debug\net6.0\Result_period_chetnyh_do_N.dll
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\obj\Debug\net6.0\refint\Result_period_chetnyh_do_N.dll
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\obj\Debug\net6.0\Result_period_chetnyh_do_N.pdb
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\obj\Debug\net6.0\Result_period_chetnyh_do_N.genruntimeconfig.cache
+C:\Users\Bionikum\DZ_of_29.11\Result_period_chetnyh_do_N\obj\Debug\net6.0\ref\Result_period_chetnyh_do_N.dll
